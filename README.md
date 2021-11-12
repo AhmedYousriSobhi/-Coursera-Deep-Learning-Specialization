@@ -12,3 +12,4 @@ This repo is updated each time a Programming assignment is completed.
 Course 1: Neural Networks and Deep Learning
 
 - Week 2 - PA 1 - Python Basics with Numpy
+- Week 2 - PA 2 - Logistic Regression with a Neural Network mindset
