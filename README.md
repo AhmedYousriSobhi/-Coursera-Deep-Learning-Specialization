@@ -1,6 +1,8 @@
 # -Coursera-Deep-Learning-Specialization
 # Deep Learning Specialization on Coursera (offered by deeplearning.ai)
 
+![LogoFiles_DeepLearning_Coursera_250x50_White](https://user-images.githubusercontent.com/66730765/147384780-c7824f1d-f41e-4875-8b87-36901789a59d.png)
+
 Programming assignments from all courses in the Coursera Deep Learning specialization offered by deeplearning.ai.
 
 Instructor: Andrew Ng
