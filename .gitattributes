@@ -1,0 +1,5 @@
+X_dev.npy filter=lfs diff=lfs merge=lfs -text
+X.npy filter=lfs diff=lfs merge=lfs -text
+Word[[:space:]]Vector[[:space:]]Representation/data/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
+Emojify/data/glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
